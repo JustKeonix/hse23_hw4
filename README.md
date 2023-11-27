@@ -7,3 +7,12 @@
 Весь код приведён в файле bio.ipynb
 
 Результат первой части в файле ALL.counts 
+
+|  | id | condition | reads total | mapped reads | mapped reads % | unique mapped reads | feature mapped reads |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| c1 |  |  |  |  |  |  |  |
+| c2 |  |  |  |  |  |  |  |
+| c3 |  |  |  |  |  |  |  |
+| r1 |  |  |  |  |  |  |  |
+| r2 |  |  |  |  |  |  |  |
+| r3 |  |  |  |  |  |  |  |
